@@ -9,7 +9,7 @@
 	},
 	"author": "Jane Doe",
 	"description": "A project that does something awesome",
-	"keywords": ["descriptive", "related", "words" ],
+	"keywords": ["descriptive", "related", "words", "freecodecamp" ],
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
