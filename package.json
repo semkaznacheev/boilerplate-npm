@@ -9,6 +9,7 @@
 	},
 	"author": "Jane Doe",
 	"description": "A project that does something awesome",
+	"keywords": ["descriptive", "related", "words" ],
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
