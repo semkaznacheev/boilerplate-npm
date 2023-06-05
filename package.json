@@ -10,6 +10,7 @@
 	"author": "Jane Doe",
 	"description": "A project that does something awesome",
 	"keywords": ["descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
